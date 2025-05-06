@@ -5,19 +5,19 @@ Features of the project:
   4) The project is built using MERN stack technologies on Node version 21.3.0
 
 Tech Stack:
-  Backend: Node JS, Express JS, and Axios
-  Frontend: React JS
-  Database: MongoDB
+  1) Backend: Node JS, Express JS, and Axios
+  2) Frontend: React JS
+  3) Database: MongoDB
 
 Getting started: 
-  git clone https://github.com/saksham1709/AutopePaymentSolutionsAssignment.git
-  cd frontend
-  npm install
-  npm start
+  1) git clone https://github.com/saksham1709/AutopePaymentSolutionsAssignment.git
+  2) cd frontend
+  3) npm install
+  4) npm start
 
-  cd Backend
-  npm install
-  npm start
-  Set mongo uri and port in .env file  
+  5) cd ../Backend
+  6) npm install
+  7) npm start
+  8) Set mongo uri and port in .env file  
     MONGO_URI=mongodb://localhost:27017/catnotes
     PORT=5000
