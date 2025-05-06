@@ -18,6 +18,8 @@ Getting started:
   5) cd ../Backend
   6) npm install
   7) npm start
-  8) Set mongo uri and port in .env file  
+  8) Set mongo uri and port in .env file
+
     MONGO_URI=mongodb://localhost:27017/catnotes
+
     PORT=5000
